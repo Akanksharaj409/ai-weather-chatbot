@@ -3,7 +3,7 @@
 An AI-powered weather application that fetches real-time weather data based on your location and lets you interact with a chatbot assistant for weather-related queries. Built using **OpenWeatherMap API**, **Google Gemini AI**, **Tailwind CSS**, and **Vanilla JavaScript**.
 
 ## 🌐 Live Demo
-[Click here to view the app]([https://akanksharaj409.github.io/ai-weather-chatbot/])
+[Click here to view the app](https://akanksharaj409.github.io/ai-weather-chatbot/)
 
 ## 🚀 Features
 
